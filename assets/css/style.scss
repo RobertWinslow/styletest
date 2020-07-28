@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 .main-content {
+  background-color: #1c87c9;
   h1 {
    color: #ff0000;
  }
@@ -13,4 +14,6 @@
    background-color: #ff0000;
  }
 }
-
+body {
+        background-color: #1c87c9;
+      }
