@@ -17,6 +17,8 @@ wee
 
 Okay, I changed the class name
 
+It seems like I just can't change the style in the minima class?
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
