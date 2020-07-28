@@ -8,6 +8,8 @@ You can use the [editor on GitHub](https://github.com/RMWinslow/styletest/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown sada a das a s dad files. 
 
+Why is the test color not changeing?
+
 yee
 
 glofish
