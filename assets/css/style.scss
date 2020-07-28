@@ -2,10 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-body {
-        background-color: #ff0000;
-      }
-
-.wrapper {
-        background-color: #fff000;
-      }
+.main-content {
+  h1 {
+   color: #ff0000;
+ }
+}
