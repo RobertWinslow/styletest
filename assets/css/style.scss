@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
+  color: #073642;
   background-color: #fdf6e3;
  }
 
@@ -12,6 +13,7 @@ pre, code, .highlight {
 }
 
 a {
+  color: #073642;
   text-decoration: underline;
 }
 a:hover {
