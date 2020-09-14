@@ -5,13 +5,14 @@
 
 body {
   background-color: #fdf6e3;
+  max-width: 45rem;
  }
-pre {
+pre, code {
   background-color: #eee8d5;
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: #7a0019;
 }
 a:hover {
